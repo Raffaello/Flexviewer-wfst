@@ -28,10 +28,10 @@ This repository is a `"fork"` of the project:
 
 #ScreenShot  #
 
-![#1](screenshot/#1.png "default")
+![#1](https://raw.github.com/Raffaello/Flexviewer-wfst/master/screenshot/%231.png "default")
 
 -------------
 
-![#2](screenshot/#2.png "Auto-Color")
+![#2](https://raw.github.com/Raffaello/Flexviewer-wfst/master/screenshot/%232.png "Auto-Color")
 
 
