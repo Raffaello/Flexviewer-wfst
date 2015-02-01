@@ -2,7 +2,7 @@
 
 **Flexviewer WFS-T Extension** allow the use of *WFS* protocol in *Flexvier 3.x* and include a **Widget** for data consulting.
 
-This repository is a `"fork"` of the project:
+This repository is a `clone` of the project:
 [https://code.google.com/p/wfst-arcgis-viewer/](https://code.google.com/p/wfst-arcgis-viewer/ "https://code.google.com/p/wfst-arcgis-viewer/")
 
 
